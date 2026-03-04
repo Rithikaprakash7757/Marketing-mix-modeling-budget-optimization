@@ -1,4 +1,4 @@
-Marketing Mix Modeling & Budget Optimization
+Marketing Mix Modeling & Budget Optimization:
 Objective
 
 To quantify the impact of marketing channels on revenue and determine optimal budget allocation under revenue and profit objectives.
